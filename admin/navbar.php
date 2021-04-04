@@ -1,7 +1,7 @@
 <nav class="navbar navbar-default">
     <div class="container-fluid">
 		<div class="navbar-header">
-			<a class="navbar-brand" href="https://www.youtube.com/channel/UCsFgC9ggwrmYR2XqEHXpbNg">Subscribe at SerBermz YouTube Channel</a>
+			<h1>DREAM CHAT</h1><p>made by jassu</p>
 		</div>
 		
 		<ul class="nav navbar-nav">
